@@ -39,4 +39,4 @@ A separate history table is used for SCD Type 4.
 ## 👨‍💻 Developed by
 **Daraspreet Singh**  
 Course Code: CT_CSI_SQ_4155  
-Week 6 Assignment – SQL Server  
+Week 7 Assignment – SQL Server  
